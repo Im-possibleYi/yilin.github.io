@@ -1,0 +1,24 @@
+
+- title: Detecting Changes of Functional Connectivity by Dy- namic Graph Embedding Learning
+  image: Dynamicgraphembedding.jpg
+  description: 
+  authors: Y. Lin J. Hou. P. Laurienti, and G. Wu
+  venue: International Conference on Medical Image Computing and Computer Assisted Intervention, 2020
+  number_link: 2
+  link1:
+    url: https://www.baidu.com
+    display: paper
+  link2:
+    url: https://www.baidu.com 
+    display: pdf
+
+- title: A General Learning-based Framework to Characterize Intrinsic Connectivity Strength in Brain Network
+  image: G_graphlearning.jpg
+  description: 
+  authors: Y. Lin, D. Yang, C. Yan, Y. Gao, M. Kim, G. Wu
+  venue: Organization for Human Brain Mapping
+  number_link: 1
+  link1:
+    url: https://www.baidu.com
+    display: pdf
+
